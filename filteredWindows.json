@@ -1,0 +1,128 @@
+[
+  {
+    "productTitle": "Asus Vivobook 15 X515EA-EJ3289W-BE Azerty",
+    "price": "549,-",
+    "Reviews": "12 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "Intel Core i5 processor",
+    "RAM": "8 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Lenovo Thinkpad E15 G4 - 21E600CDMB Azerty",
+    "price": "1.149,-",
+    "Reviews": "1 review",
+    "Scherm": "15,6 inch",
+    "Proccesor": "Intel Core i7 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "HP EliteBook 650 G9 822G7AA Azerty",
+    "price": "949,-",
+    "Reviews": "0 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "Intel Core i5 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "HP Laptop 15s-eq2111nb Azerty",
+    "price": "599,-",
+    "Reviews": "5 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "AMD Ryzen 5 processor",
+    "RAM": "8 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Asus X515EA-EJ3288W-BE Azerty",
+    "price": "599,-",
+    "Reviews": "12 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "Intel Core i5 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "MSI Katana 15 B13VGK-1234BE",
+    "price": "1.799,-",
+    "Reviews": "1 review",
+    "Scherm": "15,6 inch",
+    "Proccesor": "Intel Core i7 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Acer Nitro 5 (AN515-45-R9UW) Azerty",
+    "price": "1.499,-",
+    "Reviews": "0 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "AMD Ryzen 7 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "HP ProBook 450 G10 - 85B82EA Azerty",
+    "price": "1.229,-",
+    "Reviews": "0 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "Intel Core i7 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "MSI Katana 15 B12VFK-1232BE",
+    "price": "1.299,-",
+    "Reviews": "1 review",
+    "Scherm": "15,6 inch",
+    "Proccesor": "Intel Core i7 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "HP Laptop 15s-eq2112nb Azerty",
+    "price": "649,-",
+    "Reviews": "5 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "AMD Ryzen 7 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "HP 15s-fq5001nb Azerty",
+    "price": "599,-",
+    "Reviews": "0 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "Intel Core i5 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "HP Laptop 15s-eq2096nb Azerty",
+    "price": "549,-",
+    "Reviews": "5 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "AMD Ryzen 5 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Asus TUF Gaming A15 FA507XI-LP081W Azerty",
+    "price": "1.999,-",
+    "Reviews": "1 review",
+    "Scherm": "15,6 inch",
+    "Proccesor": "AMD Ryzen 9 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "HP Pavilion 15-eg2049nb Azerty",
+    "price": "949,-",
+    "Reviews": "19 reviews",
+    "Scherm": "15,6 inch",
+    "Proccesor": "Intel Core i7 processor",
+    "RAM": "16 GB RAM",
+    "avaiable": true
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "productTitle": "Apple MacBook Pro 14\" (2023) M2 Pro (12 core CPU/19 core GPU) 32GB/1TB Space Gray AZERTY",
+    "price": "3.299,-",
+    "Reviews": "74 reviews",
+    "Proccessor": "Apple M2 Pro processor",
+    "Scherm": "14,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 14\" (2023) M2 Pro (12 core CPU/19 core GPU) 32GB/512GB Space Gray AZERTY",
+    "price": "3.099,-",
+    "Reviews": "74 reviews",
+    "Proccessor": "Apple M2 Pro processor",
+    "Scherm": "14,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 14\" (2023) M2 Pro (10 core CPU/16 core GPU) 32GB/512GB Space Gray AZERTY",
+    "price": "2.799,-",
+    "Reviews": "74 reviews",
+    "Proccessor": "Apple M2 Pro processor",
+    "Scherm": "14,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 16\" (2023) M2 Max (12 core CPU/30 core GPU) 32GB/1TB Space Gray AZERTY",
+    "price": "3.929,-",
+    "Reviews": "37 reviews",
+    "Proccessor": "Apple M2 Max processor",
+    "Scherm": "16,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 14\" (2023) M2 Max (12 core CPU/30 core GPU) 32GB/1TB Space Gray AZERTY",
+    "price": "3.409,-",
+    "Reviews": "74 reviews",
+    "Proccessor": "Apple M2 Max processor",
+    "Scherm": "14,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 16\" (2023) M2 Max (12 core CPU/38 core GPU) 32GB/1TB Space Gray AZERTY",
+    "price": "4.149,-",
+    "Reviews": "37 reviews",
+    "Proccessor": "Apple M2 Max processor",
+    "Scherm": "16,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 16\" (2023) M2 Pro (12 core CPU/19 core GPU) 32GB/2TB Space Gray AZERTY",
+    "price": "4.199,-",
+    "Reviews": "37 reviews",
+    "Proccessor": "Apple M2 Pro processor",
+    "Scherm": "16,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 14\" (2023) M2 Max (12 core CPU/30 core GPU) 32GB/1TB Silver AZERTY",
+    "price": "3.459,-",
+    "Reviews": "74 reviews",
+    "Proccessor": "Apple M2 Max processor",
+    "Scherm": "14,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 14\" (2023) M2 Max (12 core CPU/38 core GPU) 32GB/1TB Space Gray AZERTY",
+    "price": "3.939,-",
+    "Reviews": "74 reviews",
+    "Proccessor": "Apple M2 Max processor",
+    "Scherm": "14,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 16\" (2023) M2 Pro (12 core CPU/19 core GPU) 32GB/512GB Space Gray AZERTY",
+    "price": "3.509,-",
+    "Reviews": "37 reviews",
+    "Proccessor": "Apple M2 Pro processor",
+    "Scherm": "16,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 14\" (2021) M1 Max (10 core CPU/32 core GPU) 32GB/4TB Space Gray AZERTY",
+    "price": "4.069,-",
+    "Reviews": "22 reviews",
+    "Proccessor": "Apple M1 Max processor",
+    "Scherm": "14 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  },
+  {
+    "productTitle": "Apple MacBook Pro 14\" (2023) M2 Max (12 core CPU/30 core GPU) 32GB/512GB Space Gray AZERTY",
+    "price": "3.519,-",
+    "Reviews": "74 reviews",
+    "Proccessor": "Apple M2 Max processor",
+    "Scherm": "14,2 inch",
+    "Ram": "32 GB RAM",
+    "avaiable": true
+  }
+]
